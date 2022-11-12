@@ -1,6 +1,6 @@
 <h3 align="center">A passionate frontend developer from Czech Republic</h3>
 
-- 🌱 I’m currently learning **Typescript**
+- 👨‍💻 I’m currently learning **Typescript**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
